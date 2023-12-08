@@ -1,13 +1,11 @@
 body{
-    background-color: aquamarine;
+    background-color: #727272;
 }
-div{
+.overview{
     background-color: aqua;
 }
-a{
-    font-size: 60px;
-}
 h1{
-    color: #727272;
     text-align: center;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
